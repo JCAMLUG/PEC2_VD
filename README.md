@@ -38,6 +38,8 @@ En el caso de textos demasiado grandes es necesario el filtrado de palabras poco
 
 **DISCURSO DE INVESTIDURA DE PEDRO SÁNCHEZ EN NOVIEMBRE DE 2023**
 
+![wordcloud-2](https://github.com/user-attachments/assets/8a8363a8-f812-4583-abfc-d174dc1e71eb)
+
 **Que se representa:**
 
 **Aspectos que muestra / demuestra:**

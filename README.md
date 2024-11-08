@@ -58,7 +58,9 @@ En el caso de textos demasiado grandes es necesario el filtrado de palabras poco
 
 https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2023/231115%20TRANSCRIPCIÓN%20DISCURSO%20INVESTIDURA%20PG.pdf
 
-![wordcloud-2](https://github.com/user-attachments/assets/8a8363a8-f812-4583-abfc-d174dc1e71eb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a8363a8-f812-4583-abfc-d174dc1e71eb?raw=true" alt="Sublime's custom image"/>
+</p>
 
 **Que se representa:**
 

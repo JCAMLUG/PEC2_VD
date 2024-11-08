@@ -24,7 +24,7 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 **Ejemplos:**
 
 <p align="center">
-  <img src=![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png)>
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png)  

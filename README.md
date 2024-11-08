@@ -31,9 +31,9 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
   <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo_2.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-*<p align="center">
+<p align="center">
   <sub>Fuentes: https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/
-</p>*
+</p>
 
 **TIPO DE DATOS:**
 

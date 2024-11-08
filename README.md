@@ -24,11 +24,11 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 **Ejemplos:**
 
 <p align="center">
-  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo_1.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo2.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo_2.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <p align="center">

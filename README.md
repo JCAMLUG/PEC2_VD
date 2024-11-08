@@ -5,7 +5,7 @@ Visualización de Datos
 Máster Universitario de Ciencia de Datos (UOC)
 
 
-**TÉCNICA 1 (Tag cloud / Word cloud):**
+# TÉCNICA 1 (Tag cloud / Word cloud):
 
 Definición:
 Técnica que muestra las palabras o términos de un texto, con un tamaño mayor para las palabras que aparecen con mayor frecuencia o relevancia en los datos.

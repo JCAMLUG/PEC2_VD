@@ -28,6 +28,10 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo3.png)
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo4.png)
 
+<p 
+  align="center">
+</p>
+  
 <sub>Fuentes: https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/
 
 *Fuentes: https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/*

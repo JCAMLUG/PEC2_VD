@@ -46,14 +46,14 @@ En el caso de textos demasiado grandes es necesario el filtrado de palabras poco
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
-**DISCURSO DE INVESTIDURA DE PEDRO SÁNCHEZ EN NOVIEMBRE DE 2023**
+**PROGRAMAS ELECTORALES DEL PSOE Y PP PARA LAS ELECCIONES GENERALES DE 2023**
 
 <p align="center">
   <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/psoe.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <p align="center">
-  <sub>Fuentes: [https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/](https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf)
+  <sub>Fuentes: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ En el caso de textos demasiado grandes es necesario el filtrado de palabras poco
 </p>
 
 <p align="center">
-  <sub>Fuentes: [https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/](https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf)
+  <sub>Fuentes: https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
 </p>
     
 **Que se representa:**

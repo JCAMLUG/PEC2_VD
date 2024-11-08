@@ -21,6 +21,10 @@ Comenzaron a popularizarse sobre el 2000 en webs que representaban etiquetas aso
 
 Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición según la frecuencia, categoría o significado de las etiquetas. 
 
+**Ejemplos:**
+
+
+
 **TIPO DE DATOS:**
 
 Datos textuales.

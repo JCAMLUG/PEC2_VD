@@ -39,15 +39,17 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
   <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo4.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+<p align="center">
+  <sub>*Fuentes: https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/*
+</p>
+
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png)  
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo2.png)
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo3.png)
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo4.png)
 
 
-<p align="center">
-  <sub>*Fuentes: https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/*
-</p>
+
   
 
 

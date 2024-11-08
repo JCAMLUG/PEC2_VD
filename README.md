@@ -23,7 +23,7 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 
 **Ejemplos:**
 
-https://raw.githubusercontent.com/JCAMLUG/PEC2_VD/master/assets/ejemplo1.png
+![](https://raw.githubusercontent.com/JCAMLUG/PEC2_VD/master/assets/ejemplo1.png](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png)
 
 ![image](https://github.com/user-attachments/assets/46384408-827c-41b9-8b21-098aff39b9a2)![image](https://github.com/user-attachments/assets/465c3380-ea48-4dfe-918e-9d41555ece85)
 

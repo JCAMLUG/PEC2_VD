@@ -24,9 +24,10 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 **Ejemplos:**
 
 <p align="center">
-![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png)
+  <img src=![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png)>
 </p>
-  
+
+![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png)  
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo2.png)
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo3.png)
 ![](https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo4.png)

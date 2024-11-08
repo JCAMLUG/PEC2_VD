@@ -23,6 +23,14 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 
 **Ejemplos:**
 
+![image](https://github.com/user-attachments/assets/46384408-827c-41b9-8b21-098aff39b9a2)
+
+![image](https://github.com/user-attachments/assets/465c3380-ea48-4dfe-918e-9d41555ece85)
+
+![image](https://github.com/user-attachments/assets/efdb2e85-65c9-4677-bfce-302ba35b25cf)
+
+![image](https://github.com/user-attachments/assets/0aff5097-ffbc-4e18-aeb5-927b966e5e69)
+
 
 
 **TIPO DE DATOS:**
@@ -34,9 +42,11 @@ No estructurados o con estructural parcial (líneas, párrafos, capítulos, …)
 No existe medidas mínimas o máximas estrictas. Pero, si es necesario contar con textos con suficientes palabras relevantes para una aplicación útil. 
 En el caso de textos demasiado grandes es necesario el filtrado de palabras poco significativas. 
 
-**REPRESENTACIÓN CON CONJUTNO DE DATOS ABIERTO:**
+**REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
 **DISCURSO DE INVESTIDURA DE PEDRO SÁNCHEZ EN NOVIEMBRE DE 2023**
+
+https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2023/231115%20TRANSCRIPCIÓN%20DISCURSO%20INVESTIDURA%20PG.pdf
 
 ![wordcloud-2](https://github.com/user-attachments/assets/8a8363a8-f812-4583-abfc-d174dc1e71eb)
 

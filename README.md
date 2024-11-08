@@ -31,7 +31,7 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 
 ![image](https://github.com/user-attachments/assets/0aff5097-ffbc-4e18-aeb5-927b966e5e69)
 
-
+Fuentes: https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/
 
 **TIPO DE DATOS:**
 

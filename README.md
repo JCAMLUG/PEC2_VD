@@ -1,7 +1,9 @@
 # ESTUDIO DE TÉCNICAS DE VIZUALIZACIÓN DE DATOS
 
 Juan Manuel Camacho Lugo
+
 Visualización de Datos
+
 Máster Universitario de Ciencia de Datos (UOC)
 
 

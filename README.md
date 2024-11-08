@@ -30,6 +30,8 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 
 Fuentes: https://www.cristic.com/25-ideas-para-usar-las-nubes-de-palabras-en-el-aula/
 
+
+
 **TIPO DE DATOS:**
 
 Datos textuales.

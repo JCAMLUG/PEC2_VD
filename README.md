@@ -81,15 +81,15 @@ Se pretende encontrar cuales son los pilares de la campaña y si respeta la ideo
 
 **Definición:** 
 
-
+Representación gráfica de los cambios en las tendencias a lo largo del tiempo para varias categorías.
 
 **Origen:**
 
-
+Lee Byron y Martin Wattenberg, introdujeron por primera vez el término "Streamgraph" en 2008.
 
 **Descripción/funcionamiento:**
 
- 
+ Son gráfico de áreas apiladas con formas suaves y fluidas, donde cada área representa una categoría específica. Son ideales para encontrar tendencias y patrones en conjuntos de datos de gran tamaño.
 
 **Ejemplos:**
 

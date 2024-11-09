@@ -21,7 +21,7 @@ Comenzaron a popularizarse sobre el 2000 en webs que representaban etiquetas aso
 
 Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición según la frecuencia, categoría o significado de las etiquetas. 
 
-**Ejemplos:**
+**Ejemplo:**
 
 <p align="center">
   <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo1.png?raw=true" alt="Sublime's custom image"/>

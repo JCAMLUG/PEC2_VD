@@ -11,7 +11,8 @@ Máster Universitario de Ciencia de Datos (UOC)
 
 **Definición:** 
 
-Técnica que muestra las palabras o términos de un texto teniendo en cuenta las que aparecen con mayor frecuencia o son más relevantes. 
+Técnica que muestra las palabras o términos de un texto teniendo en cuenta las que aparecen con mayor frecuencia o son más relevantes. También se pueden asignar datos a las palabras.
+
 
 **Origen:**
 

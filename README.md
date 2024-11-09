@@ -93,6 +93,13 @@ Se pretende encontrar cuales son los pilares de la campaña y si respeta la ideo
 
 **Ejemplos:**
 
+<p align="center">
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo2.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <sub>Fuentes: https://www.highcharts.com/docs/chart-and-series-types/stream-graph
+</p>
 
 **TIPO DE DATOS:**
 

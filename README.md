@@ -9,13 +9,13 @@ Máster Universitario de Ciencia de Datos (UOC)
 
 ## TÉCNICA 1 (Tag cloud / Word cloud):
 
-**Definición:**
+**Definición:** 
 
-Técnica que muestra las palabras o términos de un texto, con un tamaño mayor para las palabras que aparecen con mayor frecuencia o relevancia en los datos.
+Técnica que muestra las palabras o términos de un texto teniendo en cuenta las que aparecen con mayor frecuencia o son más relevantes. 
 
 **Origen:**
 
-Comenzaron a popularizarse sobre el 2000 en webs que representaban etiquetas asociadas a contenidos. Aunque existen registros de 1976 donde Stanley Milgram representa los lugares más mencionados por los participantes en los mapas mentales colectivos de París.
+Comenzaron a popularizarse sobre el 2000 en webs que representaban etiquetas asociadas a contenidos. Aunque existen registros más antiguos, Stanley Milgram en 1976 representó los lugares más mencionados por los participantes en los mapas mentales colectivos de París.
 
 **Descripción/funcionamiento:**
 
@@ -66,10 +66,97 @@ En el caso de textos demasiado grandes es necesario el filtrado de palabras poco
     
 **Que se representa:**
 
+Representa las propuestas de ambos partidos políticos acorde a sus ideologías y valores.
+
 **Aspectos que muestra / demuestra:**
+
+Presenta las ideas sobre las que se centra el programa.
 
 **Objetivo específico:**
 
+Captar la atención del ciudadano con el fin de obtener su voto.
+
 **Que se pretende  comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
+
+Se pretende encontrar cuales son los pilares de la campaña y si respeta la ideología del partido. Como se puede comprobar la nube del programa electoral del PSOE está centrada en la igualdad social. Mientras que la nube del programa electoral del PP, se centra en el nacionalismo.
+
+## TÉCNICA 2 (Stream Graph):
+
+**Definición:** 
+
+
+
+**Origen:**
+
+
+
+**Descripción/funcionamiento:**
+
+ 
+
+**Ejemplos:**
+
+
+**TIPO DE DATOS:**
+
+
+**REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
+
+**NOMBRE**
+
+    
+**Que se representa:**
+
+
+
+**Aspectos que muestra / demuestra:**
+
+
+
+**Objetivo específico:**
+
+
+
+**Que se pretende  comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
+
+## TÉCNICA 3 (Isotype & Unit charts):
+
+**Definición:** 
+
+
+
+**Origen:**
+
+
+
+**Descripción/funcionamiento:**
+
+ 
+
+**Ejemplos:**
+
+
+**TIPO DE DATOS:**
+
+
+**REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
+
+**NOMBRE**
+
+    
+**Que se representa:**
+
+
+
+**Aspectos que muestra / demuestra:**
+
+
+
+**Objetivo específico:**
+
+
+
+**Que se pretende  comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
+
 
 

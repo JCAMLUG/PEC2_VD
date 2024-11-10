@@ -1,0 +1,68 @@
+---
+title: "PEC2"
+subtitle: "ESTUDIO DE TÉCNICAS DE VIZUALIZACIÓN DE DATOS"
+author: "Juan Manuel Camacho Lugo"
+date: "Semestre 2024.1"
+output:
+  pdf_document:
+    highlight: default
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
+papersize: a4
+geometry:
+- top=2.5cm  #Se define un márgen superior de 2.5cm.
+- left=2cm #Se define un márgen izquierdo de 2cm.
+- right=2cm #Se define un márgen derecho 2cm.
+header-includes:
+   - \renewcommand{\contentsname}{Índice}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Lectura y cargar del archivo de datos.
+Se realiza la lectura del archivo de datos y se modifican los nombres de las columnas.
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+
+denTrafico <- read.csv("denuncias.csv", header=TRUE)
+
+# Renombrar columnas.
+colnames(denTrafico) <- c("Año", "Denuncias")
+
+# Nos aseguramos de que los datos están en formato adecuado
+denTrafico$Año <- as.factor(denTrafico$Año)  # Asegúrate de que el año sea factor
+
+# Se visualia información general de dataset.
+str(denTrafico)
+
+```
+
+# Generar el Stream Graph.
+ 
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+# Librerías que se van autilizar.
+library(ggplot2)
+library(ggstream)
+
+# Se crea el stream graph.
+ggplot(denTrafico, aes(x = Año, y = Denuncias, fill = Año)) +
+  geom_stream() +  # Se usa geom_stream para crear el gráfico de tipo stream.
+  scale_fill_viridis_d() +  # Se usa paleta de colores viridis.
+  theme_minimal() +  # Se usa un tema limpio.
+  labs(title = "Número de Denuncias de Tráfico por Año",
+       x = "Año",
+       y = "Número de Denuncias") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Se giran las etiquetas del eje X.
+
+```
+
+
+
+
+
+
+
+

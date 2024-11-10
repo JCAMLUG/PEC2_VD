@@ -106,38 +106,62 @@ Lee Byron y Martin Wattenberg, introdujeron por primera vez el término "Streamg
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
-**NOMBRE**
+**NÚMERO DE DENUNCIAS TRAMITADAS DESDE EL AÑO 2008 EN ALCOBENDAS**
+<p align="center">
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/denuncias.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
+<p align="center">
+  <sub>Fuentes: https://datos.gob.es/en/catalogo/l01280066-seguridad-vial-denuncias-tramitadas-excepto-radar-desde-el-ano-2008-historico1
+</p>
     
 **Que se representa:**
 
-
+Representa el número de denuncias de tráfico tramitadas desde el año 2008, sin contabilizar las denuncias por radar.
 
 **Aspectos que muestra / demuestra:**
 
-
+Muestra los patrones de comportamiento de los conductores a lo largo de los años.
 
 **Objetivo específico:**
 
+Ayudar en caso de necesidad a establecer nuevas políticas de gestión del tráfico o si las que están en uso están funcionando.
 
+**Que se pretende comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
 
-**Que se pretende  comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
+Se pretende observar como evoluciona el número de denuncias y descubrir posibles tendencias. Esta técnica ayuda a comprobar como las medidas tomadas han ayudado a la disminución de las denuncias a partir de ciertos años.
 
 ## TÉCNICA 3 (Isotype & Unit charts):
 
 **Definición:** 
 
-
+Representación gráfica con (formas, íconos o imágenes) repetidos para ilustrar cantidades o proporciones.
 
 **Origen:**
 
-
+Isotype fue desarrollado en 1920 por Otto Neurath para un proyecto de comunicación visual (forma accesible de presentar datos complejos).
 
 **Descripción/funcionamiento:**
 
- 
+Representar unidades o cantidades concretas. La diferencia entre ambos es que Isotype utiliza símbolos con un significado visual claro y Unit charts utiliza formas (círculos , cuadrados, …).
 
 **Ejemplos:**
+
+<p align="center">
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo3.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <sub>Fuentes: http://steveharoz.com/research/isotype/
+</p>
+
+<p align="center">
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/ejemplo4.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <sub>Fuentes: https://www.storytellingwithdata.com/blog/what-is-a-unit-chart
+</p>
 
 
 **TIPO DE DATOS:**

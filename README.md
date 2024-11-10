@@ -103,6 +103,12 @@ Lee Byron y Martin Wattenberg, introdujeron por primera vez el término "Streamg
 
 **TIPO DE DATOS:**
 
+Se utiliza datos cuantitativos ya que muestran la magnitud a lo largo del tiempo.
+
+Formato de tabla (fecha, categoría, valor, … ), por lo tanto, son datos estructurados.
+
+No se recomienda tener menos de 3 categorías, ya que, no se aprovecharía su rendimiento. 
+Tampoco es bueno contar con demasiadas categorías, dificultaría la lectura y se ocultaría información. 
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
@@ -166,6 +172,12 @@ Representar unidades o cantidades concretas. La diferencia entre ambos es que Is
 
 **TIPO DE DATOS:**
 
+La representación se refiere a cantidades numéricas, por lo tanto, son datos cuantitativos.
+
+Al asignar una cantidad específica a cada ícono o forma los datos deben estar estructurados.
+
+No es recomendable para pequeñas cantidades (perdida de impacto visual), funcionando mejor con cantidades grandes.
+Con cantidades excesivamente grandes puede producir sobrecarga y ser poco práctico.
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 

@@ -29,7 +29,7 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 </p>
 
 <p align="center">
-  <sub>Fuentes: https://www.anychart.com/products/anychart/gallery/Tag_Cloud/World_Population.php
+  <sub>Fuentes:https://www.anychart.com/products/anychart/gallery/Tag_Cloud/Most_Frequently_Words_on_Wikipedia_Pages.php
 </p>
 
 **TIPO DE DATOS:**
@@ -211,7 +211,7 @@ Permite observar como varia la población en cada comunidad, lo que ayuda a iden
 
 https://datavizcatalogue.com/methods/wordcloud.html
 
-https://www.anychart.com/products/anychart/gallery/Tag_Cloud/World_Population.php
+https://www.anychart.com/products/anychart/gallery/Tag_Cloud/Most_Frequently_Words_on_Wikipedia_Pages.php
 
 https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
 

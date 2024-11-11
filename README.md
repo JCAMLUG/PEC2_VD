@@ -183,6 +183,13 @@ Con cantidades excesivamente grandes puede producir sobrecarga y ser poco práct
 
 **NOMBRE**
 
+<p align="center">
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/Isotype.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <sub>Fuentes: https://
+</p>
     
 **Que se representa:**
 

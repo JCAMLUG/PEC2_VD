@@ -184,7 +184,7 @@ Con cantidades excesivamente grandes puede producir sobrecarga y ser poco práct
 **NOMBRE**
 
 <p align="center">
-  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/isotype.jpg?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/Isotype.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <p align="center">

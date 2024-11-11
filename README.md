@@ -207,3 +207,29 @@ Facilitar la comprensión de manera rápida sobre que comunidades tienen mayor n
 
 Permite observar como varia la población en cada comunidad, lo que ayuda a identificar patrones de crecimiento o decrecimiento poblacional.
 
+## FUENTES:
+
+https://datavizcatalogue.com/methods/wordcloud.html
+
+https://www.anychart.com/products/anychart/gallery/Tag_Cloud/World_Population.php
+
+https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
+
+https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
+
+https://datavizcatalogue.com/methods/stream_graph.html
+
+https://fastercapital.com/es/contenido/Tecnicas-de-visualizacion--Stream-Graphs--Fluir-con-datos--La-elegancia-de-los-Stream-Graphs.html#La-historia-y-evoluci-n-de-los-gr-ficos-de-flujo
+
+https://www.highcharts.com/docs/chart-and-series-types/stream-graph
+
+https://r-charts.com/es/evolucion/ggstream/
+
+https://datos.gob.es/en/catalogo/l01280066-seguridad-vial-denuncias-tramitadas-excepto-radar-desde-el-ano-2008-historico1
+
+http://steveharoz.com/research/isotype/
+
+https://www.storytellingwithdata.com/blog/what-is-a-unit-chart
+
+https://datosmacro.expansion.com/demografia/poblacion/espana-comunidades-autonomas
+

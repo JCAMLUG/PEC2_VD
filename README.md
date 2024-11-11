@@ -181,7 +181,7 @@ Con cantidades excesivamente grandes puede producir sobrecarga y ser poco práct
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
-**NOMBRE**
+**POBLACIÓN COMUNIDADES AUTÓNOMAS 2024**
 
 <p align="center">
   <img src="https://github.com/JCAMLUG/PEC2_VD/blob/main/Isotype.jpg?raw=true" alt="Sublime's custom image"/>
@@ -193,17 +193,17 @@ Con cantidades excesivamente grandes puede producir sobrecarga y ser poco práct
     
 **Que se representa:**
 
-
+Representa la población actual de cada comunidad autónoma, donde cada ícono corresponde con 300.000 habitantes.
 
 **Aspectos que muestra / demuestra:**
 
-
+Muestra cómo se distribuye la población del país en sus diferentes comunidades.
 
 **Objetivo específico:**
 
-
+Facilitar la comprensión de manera rápida sobre que comunidades tienen mayor número de habitantes y cuales menor.
 
 **Que se pretende  comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
 
-
+Permite observar como varia la población en cada comunidad, lo que ayuda a identificar patrones de crecimiento o decrecimiento poblacional.
 

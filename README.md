@@ -11,16 +11,16 @@ Máster Universitario de Ciencia de Datos (UOC)
 
 **Definición:** 
 
-Técnica que muestra las palabras o términos de un texto teniendo en cuenta las que aparecen con mayor frecuencia o son más relevantes. También se pueden asignar datos a las palabras.
+Mayor frecuencia o relevancia de las palabras o términos de un texto.
 
 
 **Origen:**
 
-Comenzaron a popularizarse sobre el 2000 en webs que representaban etiquetas asociadas a contenidos. Aunque existen registros más antiguos, Stanley Milgram en 1976 representó los lugares más mencionados por los participantes en los mapas mentales colectivos de París.
+Popularizadas sobre el 2000. Aunque existen registros previos de uso (Stanley Milgram en 1976). 
 
 **Descripción/funcionamiento:**
 
-Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición según la frecuencia, categoría o significado de las etiquetas. 
+Etiquetas dispuestas en espacios, variando el tamaño, color y la posición, según la frecuencia, categoría o significado de las etiquetas.  
 
 **Ejemplo:**
 
@@ -34,12 +34,16 @@ Son etiquetas dispuestas en espacios, variando el tamaño, color y la posición 
 
 **TIPO DE DATOS:**
 
-Datos textuales.
+Utiliza datos textuales.
 
-No estructurados o con estructural parcial (líneas, párrafos, capítulos, …).
+Datos no estructurados o estructura parcial.
 
-No existe medidas mínimas o máximas estrictas. Pero, si es necesario contar con textos con suficientes palabras relevantes para una aplicación útil. 
-En el caso de textos demasiado grandes es necesario el filtrado de palabras poco significativas. 
+No existe limitaciones mínimas o máximas estrictas. 
+
+  •	textos pequeños, poco útiles. 
+  
+  •	Textos grandes, necesario filtrado.
+ 
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
@@ -63,7 +67,7 @@ En el caso de textos demasiado grandes es necesario el filtrado de palabras poco
     
 **Que se representa:**
 
-Representa las propuestas de ambos partidos políticos acorde a sus ideologías y valores.
+Representa las propuestas de ambos partidos políticos.
 
 **Aspectos que muestra / demuestra:**
 
@@ -75,21 +79,21 @@ Captar la atención del ciudadano con el fin de obtener su voto.
 
 **Que se pretende  comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
 
-Se pretende encontrar cuales son los pilares de la campaña y si respeta la ideología del partido. Como se puede comprobar la nube del programa electoral del PSOE está centrada en la igualdad social. Mientras que la nube del programa electoral del PP, se centra en el nacionalismo.
+Se pretende encontrar cuales son los pilares de la campaña.
 
 ## TÉCNICA 2 (Stream Graph):
 
 **Definición:** 
 
-Representación gráfica de los cambios en las tendencias a lo largo del tiempo para varias categorías.
+Cambios en las tendencias a lo largo del tiempo.
 
 **Origen:**
 
-Lee Byron y Martin Wattenberg, introdujeron por primera vez el término "Streamgraph" en 2008.
+Lee Byron y Martin Wattenberg, en 2008.
 
 **Descripción/funcionamiento:**
 
- Son gráfico de áreas apiladas con formas suaves y fluidas, donde cada área representa una categoría específica. Son ideales para encontrar tendencias y patrones en conjuntos de datos de gran tamaño.
+Formas suaves y fluidas, cada área representa una categoría específica.
 
 **Ejemplos:**
 
@@ -103,12 +107,16 @@ Lee Byron y Martin Wattenberg, introdujeron por primera vez el término "Streamg
 
 **TIPO DE DATOS:**
 
-Se utiliza datos cuantitativos ya que muestran la magnitud a lo largo del tiempo.
+Utiliza datos cuantitativos.
 
-Formato de tabla (fecha, categoría, valor, … ), por lo tanto, son datos estructurados.
+Datos estructurados.
 
-No se recomienda tener menos de 3 categorías, ya que, no se aprovecharía su rendimiento. 
-Tampoco es bueno contar con demasiadas categorías, dificultaría la lectura y se ocultaría información. 
+Limitaciones:
+
+  •	No se recomienda tener menos de 3 categorías. 
+
+  •	Tampoco es bueno contar con demasiadas categorías.
+
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
@@ -123,33 +131,33 @@ Tampoco es bueno contar con demasiadas categorías, dificultaría la lectura y s
     
 **Que se representa:**
 
-Representa el número de denuncias de tráfico tramitadas desde el año 2008, sin contabilizar las denuncias por radar.
+Número de denuncias de tráfico tramitadas desde el año 2008 hasta el 2017.
 
 **Aspectos que muestra / demuestra:**
 
-Muestra los patrones de comportamiento de los conductores a lo largo de los años.
+Patrones de comportamiento de los conductores.
 
 **Objetivo específico:**
 
-Ayudar en caso de necesidad a establecer nuevas políticas de gestión del tráfico o si las que están en uso están funcionando.
+Establecer / mantener nuevas políticas de gestión del tráfico. 
 
 **Que se pretende comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
 
-Se pretende observar como evoluciona el número de denuncias y descubrir posibles tendencias. Esta técnica ayuda a comprobar como las medidas tomadas han ayudado a la disminución de las denuncias a partir de ciertos años.
+Evolución del número de denuncias y descubrir posibles tendencias. ciertos años.
 
 ## TÉCNICA 3 (Isotype & Unit charts):
 
 **Definición:** 
 
-Representación gráfica con (formas, íconos o imágenes) repetidos para ilustrar cantidades o proporciones.
+Representación gráfica con (formas, íconos o imágenes).
 
 **Origen:**
 
-Isotype fue desarrollado en 1920 por Otto Neurath para un proyecto de comunicación visual (forma accesible de presentar datos complejos).
+Desarrollado en 1920 por Otto Neurath.
 
 **Descripción/funcionamiento:**
 
-Representar unidades o cantidades concretas. La diferencia entre ambos es que Isotype utiliza símbolos con un significado visual claro y Unit charts utiliza formas (círculos , cuadrados, …).
+Representar unidades o cantidades concretas.
 
 **Ejemplos:**
 
@@ -172,12 +180,16 @@ Representar unidades o cantidades concretas. La diferencia entre ambos es que Is
 
 **TIPO DE DATOS:**
 
-La representación se refiere a cantidades numéricas, por lo tanto, son datos cuantitativos.
+Utiliza datos cuantitativos.
 
-Al asignar una cantidad específica a cada ícono o forma los datos deben estar estructurados.
+Datos estructurados.
 
-No es recomendable para pequeñas cantidades (perdida de impacto visual), funcionando mejor con cantidades grandes.
-Con cantidades excesivamente grandes puede producir sobrecarga y ser poco práctico.
+Limitaciones:
+
+  •	No es recomendable para pequeñas cantidades.
+  
+  •	Cantidades excesivamente grandes puede producir sobrecarga.
+
 
 **REPRESENTACIÓN CON CONJUNTO DE DATOS ABIERTO:**
 
@@ -193,19 +205,19 @@ Con cantidades excesivamente grandes puede producir sobrecarga y ser poco práct
     
 **Que se representa:**
 
-Representa la población actual de cada comunidad autónoma, donde cada ícono corresponde con 300.000 habitantes.
+Representa la población actual de cada comunidad autónoma.
 
 **Aspectos que muestra / demuestra:**
 
-Muestra cómo se distribuye la población del país en sus diferentes comunidades.
+Cómo se distribuye la población del país en sus diferentes comunidades.
 
 **Objetivo específico:**
 
-Facilitar la comprensión de manera rápida sobre que comunidades tienen mayor número de habitantes y cuales menor.
+Facilitar la comprensión de manera rápida. 
 
 **Que se pretende  comunicar o descubrir y como la técnica y datos ayudan a ese objetivo:**
 
-Permite observar como varia la población en cada comunidad, lo que ayuda a identificar patrones de crecimiento o decrecimiento poblacional.
+Permite observar cómo varia la población en cada comunidad.
 
 ## FUENTES:
 
